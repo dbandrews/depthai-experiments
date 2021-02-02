@@ -14,6 +14,8 @@ Example of running on OAK-D:
 
 Run
 ```
+conda env create --name wls_filter_demo python=3.7
+conda activate wls_filter_demo
 ./install_dependencies.sh
 ./main.py
 ```
